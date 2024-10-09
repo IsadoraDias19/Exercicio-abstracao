@@ -1,0 +1,14 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\bin\Debug\net8.0\Ex 4 - Carro.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\bin\Debug\net8.0\Ex 4 - Carro.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\bin\Debug\net8.0\Ex 4 - Carro.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\bin\Debug\net8.0\Ex 4 - Carro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\bin\Debug\net8.0\Ex 4 - Carro.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\refint\Ex 4 - Carro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\Ex 4 - Carro.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 4 - Carro\Ex 4 - Carro\obj\Debug\net8.0\ref\Ex 4 - Carro.dll

@@ -1,0 +1,15 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\bin\Debug\net8.0\Ex 3 - Produto.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\bin\Debug\net8.0\Ex 3 - Produto.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\bin\Debug\net8.0\Ex 3 - Produto.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\bin\Debug\net8.0\Ex 3 - Produto.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\bin\Debug\net8.0\Ex 3 - Produto.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\refint\Ex 3 - Produto.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\ref\Ex 3 - Produto.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 3 - Produto\Ex 3 - Produto\obj\Debug\net8.0\Ex 3 - Produto.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\bin\Debug\net8.0\Ex 2 - Aluno.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\bin\Debug\net8.0\Ex 2 - Aluno.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\bin\Debug\net8.0\Ex 2 - Aluno.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\bin\Debug\net8.0\Ex 2 - Aluno.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\bin\Debug\net8.0\Ex 2 - Aluno.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\refint\Ex 2 - Aluno.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\Ex 2 - Aluno.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 2 - Aluno\Ex 2 - Aluno\obj\Debug\net8.0\ref\Ex 2 - Aluno.dll

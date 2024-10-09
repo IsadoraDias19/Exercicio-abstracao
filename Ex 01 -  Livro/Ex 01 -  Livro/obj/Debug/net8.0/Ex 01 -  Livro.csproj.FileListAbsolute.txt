@@ -1,0 +1,14 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\bin\Debug\net8.0\Ex 01 -  Livro.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\bin\Debug\net8.0\Ex 01 -  Livro.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\bin\Debug\net8.0\Ex 01 -  Livro.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\bin\Debug\net8.0\Ex 01 -  Livro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\bin\Debug\net8.0\Ex 01 -  Livro.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\refint\Ex 01 -  Livro.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\Ex 01 -  Livro.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\POO\02 - Abstraçao\Execicio\Ex 01 -  Livro\Ex 01 -  Livro\obj\Debug\net8.0\ref\Ex 01 -  Livro.dll
